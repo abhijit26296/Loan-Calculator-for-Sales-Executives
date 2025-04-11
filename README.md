@@ -1,4 +1,5 @@
 # 📊 Loan Calculator - Simplifying Loan Explanations for Sales Teams 💼
+
 🎯 The Business Problem
 Explaining loan details to customers shouldn't feel like teaching rocket science! 🚀 Our sales executives were struggling with:
 
@@ -72,4 +73,7 @@ Fewer "let me think about it" responses 🤔
 More referrals from happy customers 🌟
 
 Now explaining loans is as easy as showing pictures! 🖼️
+
+
+Link to Check your Loan calculation : https://docs.google.com/spreadsheets/d/1DBkYTMdiWyWdtZhT55XKtnYVhyH2Dz6fwNisherOLDY/edit?usp=sharing
 
